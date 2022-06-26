@@ -1,0 +1,54 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 25/06/2022, 21:28:38
+    Author     : stenio
+*/
+
+body{
+    background: #E8EFCD url('imagens/fundo.png');
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: #828271;
+    /* em é usado para manter o text proporcional ao valor padrao de font*/
+    font-size: 1.2em;
+}
+
+#principal{
+    width: 900px;
+    
+}
+
+#menu{
+    background: #c5c5b2;
+    padding: 18px;
+    
+}
+
+#conteudo{
+    background: #e8e8d9;
+    padding: 10px;
+}
+#contato{
+    padding: 5px;
+    text-align: left;
+}
+
+a{
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+.centralizar{
+    text-align: center;
+}
+
+.img-campanha{
+    border: 10px solid #c3c3ae;
+    
+}
