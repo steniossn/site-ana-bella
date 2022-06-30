@@ -16,18 +16,21 @@ h1{
 }
 
 #principal{
-    width: 900px;
+    /*width: 900px;*/
+    width: 75%;
+    margin: 30px auto;
     
 }
 
 #menu{
     background: #c5c5b2;
     padding: 18px;
+    margin: 0px;
 }
 
 #conteudo{
     background: #e8e8d9;
-    padding: 10px;
+    padding: 10px ;
     
 }
 #contato{
@@ -47,7 +50,9 @@ a{
 
 .img-campanha{
     border: 10px solid #c3c3ae;
-    
+}
+.img-campanha img{
+    width: 100%;
 }
 
 li{
@@ -62,4 +67,8 @@ li{
 
 #menu a:hover {
     background: #d6e1c7;
+}
+
+.img-cabecalho img{
+    width: 100%;
 }
